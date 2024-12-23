@@ -4,7 +4,7 @@ import { useState } from "react"
 function App() {
 return(
   <div>
-    <b>Hi there</b>
+    <b>Hi there</b> 
     <Counter></Counter>
   </div>
 )
