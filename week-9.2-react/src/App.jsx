@@ -17,7 +17,7 @@ function increaseCount(){
 }
 
 function decreaseCount(){
-  setCount(count - 1);
+  setCount(count - 1);   
 }
 
 function resetCount(){
